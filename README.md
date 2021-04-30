@@ -75,6 +75,7 @@ AppbarContainer(
 			.background(MaterialTheme.colors.primary),
 		collapsingToolbarState = state
 	) {
+		// ...
 	}
 	
 	LazyColumn(
@@ -101,6 +102,7 @@ AppbarContainer(
 			.background(MaterialTheme.colors.primary),
 		collapsingToolbarState = state
 	) {
+		// ...
 	}
 	
 	LazyColumn(
@@ -127,6 +129,7 @@ AppbarContainer(
 			.background(MaterialTheme.colors.primary),
 		collapsingToolbarState = state
 	) {
+		// ...
 	}
 	
 	LazyColumn(
